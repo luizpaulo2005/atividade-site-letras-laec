@@ -2,8 +2,6 @@
 
 Atividade realizada na disciplina Linguagem de Apresentação e Estruturação de Conteúdos no curso Tecnologia em Análise e Desenvolvimento de Sistemas do IFMS - NA
 
-[Deploy se tiver](<>)
-
 > Tecnologias Utilizadas:
 
 - HTML
